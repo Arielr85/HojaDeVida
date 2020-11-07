@@ -1,0 +1,113 @@
+header nav {
+    background-image: linear-gradient(to right top, #5c5e5e, #76807e, #94a49b, #b8c8b6, #e3ecd0);
+}
+header .navbar-brand{
+    margin-right: 25px;
+    color: white;
+}
+
+
+main {
+    background-color: rgb(211,211,211);
+}
+.navbar-brand{
+    color: white;
+}
+#main .carousel-inner img {
+    max-height: 50vh;
+    object-fit: cover;
+    /* filter: grayscale(70%); */ 
+}
+#infper .card-header {
+    
+    background-image: linear-gradient(to right top, #5c5e5e, #76807e, #94a49b, #b8c8b6, #e3ecd0);
+}
+#headingOne button {
+    color: black;
+}
+#headingTwo button {
+    color: black;
+}
+#headingThree button {
+    color: black;
+}
+
+.carousel-control-prev {
+    color: red;
+}
+#infper {
+    margin-top: 20px;
+}
+
+#title-infper h1{
+    font-family: 'IBM Plex Mono', monospace;
+    text-align: center;
+}
+#img-photo-perfil {
+    max-width: 100%;
+    border-radius: 5px;
+}
+#llamar {
+    text-decoration: none;
+    color: white;
+}
+#email {
+    text-decoration: none;
+    color: white;
+}
+.card h2 .mb-0 {
+    text-decoration: none;
+}
+#table-cursos .btn a {
+    text-decoration: none;
+    color: white;
+}
+#img-perfil {
+    margin: auto;
+}
+#title-expe-laboral {
+    font-family: 'IBM Plex Mono', monospace;
+    text-align: center;
+}
+/* #table-cursos .btn {
+    height: 30px;
+    text-align: center;
+} */
+#expe-labor .card {
+    margin: auto;
+    margin-bottom: 30px;
+    height: 270px;
+}
+#expe-labor .carousel a {
+    margin: auto;
+    text-align: center;
+}
+.refec h1 {
+    margin: auto;
+    text-align: center;
+}
+
+#ref-fam img {
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+
+}
+#ref-lab img {
+    height: 65px;
+    width: 65px;
+    border-radius: 10px;
+
+}
+.refec .container .row{
+    background-color:rgb(245,245,245)q;
+    border-radius: 10px;
+}
+
+
+/* slider */
+#programasDom .badge {
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
